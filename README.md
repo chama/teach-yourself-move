@@ -126,7 +126,7 @@ Feel free to clone this repo and [check off items][markdown checkbox] as you go!
 1. - [x] `do` [Move official tutorial]
 1. - [x] `read` [Expanding the Aptos Community]
 1. - [x] `read` [Aptos Labs' Block-STM Article]
-1. - [ ] `do` [Getting started]
+1. - [x] `do` [Getting started]
 1. - [ ] `read` [Block-STM paper] (sections 1 and 2)
 1. - [ ] `read` [magnum6.eth baseline] article
 1. - [ ] `do` [magnum6.eth create things] tutorial
